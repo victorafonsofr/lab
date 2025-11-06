@@ -1,1 +1,1 @@
-<h1 color="red">laboratório - alg II<h1>
+<h1 align="center">laboratório - alg II<h1>
